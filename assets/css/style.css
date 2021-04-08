@@ -126,8 +126,11 @@ section:nth-of-type(2) p {
 }
 
 section:nth-of-type(2) div img {
-  width: 18%;
+  width: 25%;
+  justify-content: center;
+  position: relative;
   margin: 1.8% 1.8%;
+  
 }
 
 section:nth-of-type(2) div img:hover {
@@ -135,7 +138,7 @@ section:nth-of-type(2) div img:hover {
 }
 
 section:nth-of-type(2) img:first-of-type {
-  margin-left: 13.5%;
+  margin-left: 10%;
 }
 
 /* Styling Section 3: Videos & Website links */
